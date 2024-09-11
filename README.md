@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Liam Szudy
 
-# Your Github username
+# TheRealMoeMasterful
